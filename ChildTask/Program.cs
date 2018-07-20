@@ -8,8 +8,10 @@ namespace ChildTask
     {
         public static void Main(string[] args)
         {
+            //输出顺序是不可预测的
             Test1();
             Console.WriteLine("============================================");
+            //等待所有子任务完成最后输出 Executing continuation  
             Test1(TaskCreationOptions.AttachedToParent);
             Console.Read();
         }

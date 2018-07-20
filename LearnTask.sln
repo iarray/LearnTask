@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldDemo", "YieldDemo\Yiel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnTask4", "LearnTask4\LearnTask4.csproj", "{C8000BBE-BB9A-451E-961D-98776D73920E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryTask", "RetryTask\RetryTask.csproj", "{89A5CF11-7A12-4E34-A8D2-1DB36941A330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedOnlyOneComplete", "NeedOnlyOneComplete\NeedOnlyOneComplete.csproj", "{B74770BE-7186-43F3-A7C2-1446700BEE1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{C8000BBE-BB9A-451E-961D-98776D73920E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8000BBE-BB9A-451E-961D-98776D73920E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8000BBE-BB9A-451E-961D-98776D73920E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A5CF11-7A12-4E34-A8D2-1DB36941A330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A5CF11-7A12-4E34-A8D2-1DB36941A330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A5CF11-7A12-4E34-A8D2-1DB36941A330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A5CF11-7A12-4E34-A8D2-1DB36941A330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74770BE-7186-43F3-A7C2-1446700BEE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74770BE-7186-43F3-A7C2-1446700BEE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74770BE-7186-43F3-A7C2-1446700BEE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74770BE-7186-43F3-A7C2-1446700BEE1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
